@@ -11,7 +11,7 @@
 
 </div>
 
-![image](img/GitHub_Copilot_Customization_Features1.png)
+![image](img/GitHub_Copilot_Customization_Features.png)
 
 A curated collection of specialized GitHub Copilot chat modes, instructions, and prompts that supercharge AI-assisted development workflows. Transform GitHub Copilot into domain-specific experts for documentation, architecture design, code review, and more.
 
